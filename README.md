@@ -32,7 +32,8 @@ iOSResourceCollect
 | 序号 |算法| 地址|
 | :-------------: | :------------: |:------:|
 | 00001 | 算法笔记 | https://github.com/nonstriater/Learn-Algorithms|
-
+| 00002|巩朋：我的算法学习之路|http://blog.jobbole.com/67348/|
+|00003|傅里叶变换：MP3、JPEG和Siri背后的数学|http://blog.jobbole.com/51301/|
 ---
 
 
@@ -51,8 +52,18 @@ iOSResourceCollect
 |0011|[(唐巧)使用GCD(#todo)](http://www.devtang.com/blog/2012/02/22/use-gcd/)|
 |0012|[(唐巧)Xcode4使用技巧(#todo)](http://www.devtang.com/blog/2012/03/10/xcode4-tips/)|
 |0013|[MVVM(mvc的改进)](https://github.com/nixzhu/dev-blog/blob/master/2014-06-10-mvvm.md)|
-|0013|[GCD](http://www.dreamingwish.com/frontui/article/default/of-of-of-of-gcd-introduced-1-basic-concepts-in-and-the-dispatch-queue.html)|
+|0013|[GCD](http://www.dreamingwish.com/article/gcdgrand-central-dispatch-jiao-cheng.html)|
+|0014|[GCD总结](http://gracelancy.com/blog/2013/02/19/OSX-iOS-Concurrency-Programming/)|
+|0015|[(青玉伏案)在Objective-C中浅谈面向对象](http://www.cnblogs.com/ludashi/p/3868687.html)|
+|0016|[(青玉伏案)Objective-C中小怪兽的逻辑(类方法,对象方法的使用)](http://www.cnblogs.com/ludashi/p/3871827.html)|
+|0017|[(青玉伏案)Objective-C中的属性机制(属性的声明,使用,get,set,属性的修饰符(weak,strong等...)](http://www.cnblogs.com/ludashi/p/3873846.html)|
+|0018|[(青玉伏案)Objective-C中的继承和多态](http://www.cnblogs.com/ludashi/p/3877735.html)|
+|0019|[(青玉伏案)Objective-C精选字符串处理方法](http://www.cnblogs.com/ludashi/p/3881268.html)|
+|0020|[(青玉伏案)Objective-C中的集合类](http://www.cnblogs.com/ludashi/p/3893093.html)|
+|0021|[(青玉伏案)Objective-C中的内存管理](http://www.cnblogs.com/ludashi/p/3888831.html)|
+
 |todo|[apple-并发编程](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091)|
+
 
 
 ----
@@ -131,6 +142,7 @@ CS 193P iPhone Application Development |[CS 193P iPhone Application Development]
 [sunnyxx](http://blog.sunnyxx.com/2015/01/17/self-in-arc/)|ios6级考试,ios最佳实践,objc刨根问底,objc的秘密
 [刘伟(******)](http://blog.csdn.net/iukey/article/details/7308311)|刘伟Derick-IOS应用开发(iPhone iPad 应用、游戏)潇洒的程序员,文章看来特别有调理.
 [dreamingwish](http://www.dreamingwish.com/frontui/article/default/gcd%E4%BB%8B%E7%BB%8D%EF%BC%88%E4%B8%80%EF%BC%89-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8Cdispatch-queue.html)| 讲解的比较详细.
+[likid1412(****开发笔记)](http://likid1412.github.io/blog/archives/)
 ## 文章
 
 标题  | 内容简介
