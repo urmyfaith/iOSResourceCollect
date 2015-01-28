@@ -71,7 +71,7 @@ iOSResourceCollect
 |0029|[(青玉伏案)ARC内存管理机制详解(strong,weak, __autoreleasing)](http://www.cnblogs.com/ludashi/p/3911666.html)|
 |0030|[(青玉伏案)KVC & KVO](http://www.cnblogs.com/ludashi/p/3912970.html)|
 |0031|[(青玉伏案)Target-Action回调模式(简单的代理方式)](http://www.cnblogs.com/ludashi/p/3918703.html)|
-
+|0032|[(青玉伏案)Objective-C中的Block回调模式](http://www.cnblogs.com/ludashi/p/3922911.html)|
 
 
 |todo|[apple-并发编程](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091)|
