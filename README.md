@@ -61,7 +61,19 @@ iOSResourceCollect
 |0019|[(青玉伏案)Objective-C精选字符串处理方法](http://www.cnblogs.com/ludashi/p/3881268.html)|
 |0020|[(青玉伏案)Objective-C中的集合类](http://www.cnblogs.com/ludashi/p/3893093.html)|
 |0021|[(青玉伏案)Objective-C中的内存管理](http://www.cnblogs.com/ludashi/p/3888831.html)|
-|0021|[(青玉伏案)Objective-C中的类目，延展，协议(正式协议和非正式协议的区别)](http://www.cnblogs.com/ludashi/p/3893084.html)|
+|0022|[(青玉伏案)Objective-C中的类目，延展，协议(正式协议和非正式协议的区别)](http://www.cnblogs.com/ludashi/p/3893084.html)|
+|0023|[(青玉伏案)Objective-C中的语法糖(论看WWDC的重要性)](http://www.cnblogs.com/ludashi/p/3893854.html)|
+|0024|[(青玉伏案)Objective-C中的单例模式(arc和非arc下的单例)](http://www.cnblogs.com/ludashi/p/3902463.html)|
+|0025|[(青玉伏案)Objective-C中的代理](http://www.cnblogs.com/ludashi/p/3897807.html)|
+|0026|[(青玉伏案)Objective-C中的Block(闭包)](http://www.cnblogs.com/ludashi/p/3903054.html)|
+|0027|[(青玉伏案)Objective-C中把数组中字典中的数据转换成URL(字符串拼接实例)](http://www.cnblogs.com/ludashi/p/3906964.html)|
+|0028|[(青玉伏案)Objective-C中把URL请求的参数转换为字典(字符串拆分实例)](http://www.cnblogs.com/ludashi/p/3907125.html)|
+|0029|[(青玉伏案)ARC内存管理机制详解(strong,weak, __autoreleasing)](http://www.cnblogs.com/ludashi/p/3911666.html)|
+|0030|[(青玉伏案)KVC & KVO](http://www.cnblogs.com/ludashi/p/3912970.html)|
+|0031|[(青玉伏案)Target-Action回调模式(简单的代理方式)](http://www.cnblogs.com/ludashi/p/3918703.html)|
+
+
+
 |todo|[apple-并发编程](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091)|
 
 
