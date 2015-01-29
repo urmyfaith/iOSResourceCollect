@@ -37,8 +37,17 @@ iOSResourceCollect
 ---
 
 
-| 序号 | 已读 |
-| -------------: | :------------ |
+| 序号 |block| 地址|
+| -------------: | :------------ |:------|
+| 0001 | (唐巧)谈Objective-C Block的实现 |http://blog.devtang.com/blog/2013/07/28/a-look-inside-blocks/ |
+| 0002 | Block介绍（一）基础 |http://www.dreamingwish.com/article/block%E4%BB%8B%E7%BB%8D%EF%BC%88%E4%B8%80%EF%BC%89%E5%9F%BA%E7%A1%80.html |
+| 0003 |(青玉伏案)Objective-C中的Block(闭包)|http://www.cnblogs.com/ludashi/p/3903054.html|
+|0004| Block介绍（二）内存管理与其他特性 |http://www.dreamingwish.com/article/block%E4%BB%8B%E7%BB%8D%EF%BC%88%E4%BA%8C%EF%BC%89%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%8E%E5%85%B6%E4%BB%96%E7%89%B9%E6%80%A7.html|
+
+---
+
+| 序号 | 已读 | 分类tag|
+| -------------: | :------------ | -----|
 | 0001  | [(唐巧)不要在init和dealloc函数中使用accessor](http://www.devtang.com/blog/2011/08/10/do-not-use-accessor-in-init-and-dealloc-method/) |
 | 0002 | [(唐巧)让UILabel的文字顶部对齐](http://www.devtang.com/blog/2011/11/20/set-uilabel-text-align-top/) |
 | 0003  | [(唐巧)去掉xcode源码末尾的空格](http://www.devtang.com/blog/2011/12/10/remove-tail-blankspace-in-xcode/) |
@@ -49,10 +58,11 @@ iOSResourceCollect
 |0008|[(唐巧)iOS5中UIViewController的新方法(childViewControllers)](http://www.devtang.com/blog/2012/02/06/new-methods-in-uiviewcontroller-of-ios5/)|
 |0009|[(唐巧)给NSString增加Java风格的方法(封装原有的类的方法)](http://www.devtang.com/blog/2012/02/14/nsstring-java-like-wrapper/)
 |0010|[(唐巧) 给iOS工程增加Daily Build(不是很懂)(#todo)](http://www.devtang.com/blog/2012/02/16/apply-daily-build-in-ios-project/)|
-|0011|[(唐巧)使用GCD(#todo)](http://www.devtang.com/blog/2012/02/22/use-gcd/)|
+|0011|[(唐巧)使用GCD(#done)](http://www.devtang.com/blog/2012/02/22/use-gcd/)|
+|0011|roadofios/advancedUI/0119_week12_day1/GCD_dispatch/GCD_dispatch/ZXAppDelegate.m|
 |0012|[(唐巧)Xcode4使用技巧(#todo)](http://www.devtang.com/blog/2012/03/10/xcode4-tips/)|
 |0013|[MVVM(mvc的改进)](https://github.com/nixzhu/dev-blog/blob/master/2014-06-10-mvvm.md)|
-|0013|[GCD](http://www.dreamingwish.com/article/gcdgrand-central-dispatch-jiao-cheng.html)|
+|0013|[GCD详细教程](http://www.dreamingwish.com/article/gcdgrand-central-dispatch-jiao-cheng.html)|
 |0014|[GCD总结](http://gracelancy.com/blog/2013/02/19/OSX-iOS-Concurrency-Programming/)|
 |0015|[(青玉伏案)在Objective-C中浅谈面向对象](http://www.cnblogs.com/ludashi/p/3868687.html)|
 |0016|[(青玉伏案)Objective-C中小怪兽的逻辑(类方法,对象方法的使用)](http://www.cnblogs.com/ludashi/p/3871827.html)|
@@ -73,6 +83,11 @@ iOSResourceCollect
 |0031|[(青玉伏案)Target-Action回调模式(简单的代理方式)](http://www.cnblogs.com/ludashi/p/3918703.html)|
 |0032|[(青玉伏案)Objective-C中的Block回调模式](http://www.cnblogs.com/ludashi/p/3922911.html)|
 |0033|[(青玉伏案)Objective-C中的老板是这样发通知的（Notification)](http://www.cnblogs.com/ludashi/p/3924836.html)|
+|0034|[((青玉伏案))IOS开发之自定义Button(集成三种回调模式)](http://www.cnblogs.com/ludashi/p/3964969.html)|
+|0035|[Block介绍（一）基础](http://www.dreamingwish.com/article/block%E4%BB%8B%E7%BB%8D%EF%BC%88%E4%B8%80%EF%BC%89%E5%9F%BA%E7%A1%80.html)|block|
+|0036|[block介绍（三）揭开神秘面纱（上](http://www.dreamingwish.com/article/block%E4%BB%8B%E7%BB%8D%EF%BC%88%E4%B8%89%EF%BC%89%E6%8F%AD%E5%BC%80%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1%EF%BC%88%E4%B8%8A%EF%BC%89.html)| block|
+|0037|[(唐巧)谈Objective-C Block的实现](http://blog.devtang.com/blog/2013/07/28/a-look-inside-blocks/)|block|
+|0038|[GCD实战一：使用串行队列实现简单的预加载](http://www.dreamingwish.com/frontui/article/default/gcd%E5%AE%9E%E6%88%98%E4%B8%80%EF%BC%9A%E4%BD%BF%E7%94%A8%E4%B8%B2%E8%A1%8C%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%9A%84%E9%A2%84%E5%8A%A0%E8%BD%BD.html)|gcd|
 |todo|[apple-并发编程](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091)|
 
 
