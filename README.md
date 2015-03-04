@@ -16,7 +16,7 @@ iOSResourceCollect
 | 序号 | 动画 |
 | ------------- | ------------ |
 | 0001  | http://blog.csdn.net/lengshengren/article/details/13511769 |
-
+|0002|http://segmentfault.com/blog/jiyinyiyong/1190000002533958|
 
 ---
 
@@ -88,9 +88,11 @@ iOSResourceCollect
 |0036|[block介绍（三）揭开神秘面纱（上](http://www.dreamingwish.com/article/block%E4%BB%8B%E7%BB%8D%EF%BC%88%E4%B8%89%EF%BC%89%E6%8F%AD%E5%BC%80%E7%A5%9E%E7%A7%98%E9%9D%A2%E7%BA%B1%EF%BC%88%E4%B8%8A%EF%BC%89.html)| block|
 |0037|[(唐巧)谈Objective-C Block的实现](http://blog.devtang.com/blog/2013/07/28/a-look-inside-blocks/)|block|
 |0038|[GCD实战一：使用串行队列实现简单的预加载](http://www.dreamingwish.com/frontui/article/default/gcd%E5%AE%9E%E6%88%98%E4%B8%80%EF%BC%9A%E4%BD%BF%E7%94%A8%E4%B8%B2%E8%A1%8C%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E7%9A%84%E9%A2%84%E5%8A%A0%E8%BD%BD.html)|gcd|
+|0039|[阮一峰：炫耀从来不是我的动机，好奇才是](http://mp.weixin.qq.com/s?__biz=MzA4MTEzNzUwMw==&mid=203669444&idx=1&sn=8524bf6334a23809d97dd72496adc187&3rd=MzA3MDU4NTYzMw==&scene=6#rd)|road|
+|0040|[(ryantang)我的iOS工程结构](http://ryantang.me/blog/2014/08/03/ios-prj-structure/)|工程结构|
 |todo|[apple-并发编程](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091)|
-
-
+|0041|[iOS开发的一些奇巧淫技（2）](http://ios.jobbole.com/81530/)|UITableView|
+|0042|[唱吧客户端团队的的Git实践](http://www.iwangke.me/2015/02/08/Git-in-action-at-ChangBa/)|git|
 
 ----
 
@@ -168,7 +170,10 @@ CS 193P iPhone Application Development |[CS 193P iPhone Application Development]
 [sunnyxx](http://blog.sunnyxx.com/2015/01/17/self-in-arc/)|ios6级考试,ios最佳实践,objc刨根问底,objc的秘密
 [刘伟(******)](http://blog.csdn.net/iukey/article/details/7308311)|刘伟Derick-IOS应用开发(iPhone iPad 应用、游戏)潇洒的程序员,文章看来特别有调理.
 [dreamingwish](http://www.dreamingwish.com/frontui/article/default/gcd%E4%BB%8B%E7%BB%8D%EF%BC%88%E4%B8%80%EF%BC%89-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8Cdispatch-queue.html)| 讲解的比较详细.
-[likid1412(****开发笔记)](http://likid1412.github.io/blog/archives/)
+[likid1412(****开发笔记)](http://likid1412.github.io/blog/archives/)|xxx
+[王中周](http://blog.csdn.net/wzzvictory/article/details/9264335)|专注于IOS应用开发
+[唐韧_Ryan](http://blog.csdn.net/ryantang03)|http://blog.csdn.net/ryantang03|
+
 ## 文章
 
 标题  | 内容简介
